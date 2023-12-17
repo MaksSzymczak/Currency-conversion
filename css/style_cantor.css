@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+
+.body__cantor {
+    background-image: url("../images/FootballPitch.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px;
+}

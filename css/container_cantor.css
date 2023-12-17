@@ -1,0 +1,13 @@
+.container__cantor {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0 30px 50px 3px;
+    color: #ffffff;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.header__fieldset--cantor {
+    color: black;
+}

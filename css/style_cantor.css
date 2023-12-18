@@ -8,7 +8,7 @@ html {
 
 
 .body__cantor {
-    background-image: url("../images/FootballPitch.jpg");
-    background-repeat: no-repeat;
-    background-size: 1550px;
+    background-image: url("../images/CosmicBackgroundf.jpeg");
+    background-size: auto 1000px;
+    background-attachment: local;
 }
